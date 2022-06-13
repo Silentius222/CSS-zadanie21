@@ -1,18 +1,17 @@
+[class^= "paragraf"] {
+  width: 100px;
+  height: 100px;
+}
+
 .paragraf{
-    width: 100px;
-    height: 100px;
     background-color: red;
 }
 
 .paragraf1{
-    width: 100px;
-    height: 100px;
     background-color: blue;
 }
 
 .paragraf2{
-    width: 100px;
-    height: 100px;
     background-color: red;
     opacity: 0.5;  
 }
